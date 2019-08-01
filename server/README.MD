@@ -1,6 +1,6 @@
-# Project Title
+# Express MySQL server
 
-One Paragraph of project description goes here
+This server is using Express framework to connect MySQL database
 
 ## Getting Started
 
@@ -21,13 +21,13 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+npm run watch
 ```
 
 And repeat
 
 ```
-until finished
+npm run watch
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
